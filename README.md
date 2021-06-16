@@ -1,6 +1,9 @@
 Hi there 👋
 ============
 
+I'm Sungmin Lee, AI developer
+-----------------------------
+
 <!--
 **pigzzz8815/pigzzz8815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
