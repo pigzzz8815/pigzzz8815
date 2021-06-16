@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=WELCOME&fontSize=90)
-Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=SUNGMIN's%20Profile&fontSize=90)
+👋 Hi, there 👋
 ============
 
 I'm Sungmin Lee, AI developer
