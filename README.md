@@ -1,9 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=SUNGMIN's%20Profile&fontSize=90)
+
 👋 Hi, there 👋
 ============
 
-I'm Sungmin Lee, AI developer
------------------------------
+- I'm a AI Developer
+- I'm from Korea and working in Korea
+
+🌱How to reach me?🌱
+============
+
+- Sungmin's gmail : a01088156298@gmail.com
+
+
+[!뱃지이름](https://img.shields.io/badge/language-python-orange)
 
 
 <!--
