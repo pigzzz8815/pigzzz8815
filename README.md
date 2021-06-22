@@ -11,10 +11,6 @@
 
 - Sungmin's gmail : a01088156298@gmail.com
 
-
-[!뱃지이름](https://img.shields.io/badge/language-python-orange)
-
-
 <!--
 **pigzzz8815/pigzzz8815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
